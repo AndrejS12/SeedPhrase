@@ -9,7 +9,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,41 +35,6 @@ To get started with SeedPhrase, you will need to set up your environment and ins
 - **Node.js**: Ensure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 - **Git**: Make sure Git is installed on your machine. Download it from [git-scm.com](https://git-scm.com/).
 
-### Installation
-
-1. **Clone the Repository**: Open your terminal and run the following command:
-
-   ```bash
-   git clone https://github.com/seydou1/SeedPhrase.git
-   ```
-
-2. **Navigate to the Project Directory**:
-
-   ```bash
-   cd SeedPhrase
-   ```
-
-3. **Install Dependencies**: Run the following command to install all necessary packages:
-
-   ```bash
-   npm install
-   ```
-
-4. **Download the Latest Release**: Visit the [Releases section](https://github.com/seydou1/SeedPhrase/releases) to download the latest version. Execute the downloaded file to set up the application.
-
-## Usage
-
-After installation, you can start using SeedPhrase. Here’s how to run the application:
-
-1. **Start the Server**: In the terminal, run:
-
-   ```bash
-   npm start
-   ```
-
-2. **Access the Application**: Open your web browser and go to `http://localhost:3000`.
-
-3. **Explore Features**: Navigate through the interface to explore the features of SeedPhrase.
 
 ## Contributing
 
